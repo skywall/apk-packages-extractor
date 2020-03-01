@@ -35,7 +35,7 @@ android/support/v4/math, 2, 2 3 4 Player Mini Games_v3.2.2_apkpure.com,com.minic
 ...
 ```
 
-Rows are sorted by count of package occurrences across all of the analyzed `(x)apks`.Post-processed (added missing trailing 
+Rows are sorted by count of package occurrences across all of the analyzed `(x)apks`. Post-processed (added missing trailing 
 separators) CSV file with example data is available [here](precomputed/example_data.csv). 
 
 ### Precomputed

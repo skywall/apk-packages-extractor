@@ -35,6 +35,8 @@ android/support/v4/math, 2, 2 3 4 Player Mini Games_v3.2.2_apkpure.com,com.minic
 ...
 ```
 
+Postprocessed (added missing separators) example csv file might be found [here](precomputed/example_data.csv). 
+
 ### Precomputed
 
 Repository contains csv file with precomputed packages of TOP 100 most downloaded games (size < 1GB) from ApkPure. File can 

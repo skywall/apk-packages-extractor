@@ -1,4 +1,4 @@
-package cz.skywall.apkanalyzer
+package cz.skywall.apkpackagesextractor
 
 import java.io.File
 import java.util.concurrent.TimeUnit

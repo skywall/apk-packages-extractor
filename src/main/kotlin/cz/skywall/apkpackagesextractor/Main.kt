@@ -1,6 +1,6 @@
 @file:Suppress("SameParameterValue")
 
-package cz.skywall.apkanalyzer
+package cz.skywall.apkpackagesextractor
 
 import java.io.File
 

@@ -1,2 +1,2 @@
-rootProject.name = "apk-analyzer"
+rootProject.name = "apk-packages-extractor"
 

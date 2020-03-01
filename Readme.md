@@ -35,4 +35,9 @@ android/support/v4/math, 2, 2 3 4 Player Mini Games_v3.2.2_apkpure.com,com.minic
 ...
 ```
 
+### Precomputed
+
+Repository contains csv file with precomputed packages of TOP 100 most downloaded games (size < 1GB) from ApkPure. File can 
+be found [here](/precomputed/top_100_apkpure_games.csv).
+
 

@@ -22,9 +22,9 @@ into `out.csv` file and prints it to the `stdout`
 
 Example CSV file format:
 
-| package | count| #1 Found in apk | #2 Found in apk | #3 ... |
-| ------- | ---: | --------------- | --------------- | ------ |
-|com/google/android/gms/common/logging| 2| 2 3 4 Player Mini Games_v3.2.2_apkpure.com|com.miniclip.eightballpool||
+| Package | Count | In APK #1 | In APK #2 | ... |
+| ------- | ----: | --------------- | --------------- | ------ |
+|com/google/android/gms/common| 2| 2 3 4 Player Mini Games_v3.2.2_apkpure.com|com.miniclip.eightballpool||
 |android/support/v4/content/res| 2| 2 3 4 Player Mini Games_v3.2.2_apkpure.com|com.miniclip.eightballpool||
 |com/miniclip/mcprime| 1| com.miniclip.eightballpool| ||
 
